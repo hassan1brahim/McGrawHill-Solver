@@ -1,0 +1,10 @@
+## Requirements
+- Python 3.x
+- Chrome browser (version 143.0.7499.170)
+- ChromeDriver 143.0.7499.169 (automatically managed by webdriver-manager)
+
+# Python packages
+selenium==4.38.0
+webdriver-manager==4.0.2
+beautifulsoup4==4.14.2
+requests==2.32.5
